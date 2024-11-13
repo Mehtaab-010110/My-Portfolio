@@ -5,7 +5,6 @@ import "./globals.css";
 import { ThemeProvider } from "./provider";
 
 const inter = Inter({ subsets: ["latin"] });
-<SpeedInsights />
 export const metadata: Metadata = {
   title: "Mehtab's Portfolio",
   description: "Developer Portfolio",
@@ -28,6 +27,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {children}
+          <SpeedInsights />
         </ThemeProvider>
       </body>
     </html>
