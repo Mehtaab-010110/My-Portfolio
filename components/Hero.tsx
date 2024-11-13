@@ -54,18 +54,8 @@ const Hero = () => {
 
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
-          <motion.p
-            initial={{ opacity: 0, y: 20 }} // Starts faded and slightly moved down
-            whileInView={{ opacity: 1, y: 0 }} // Fades in and moves up to original position
-            transition={{
-              delay: 0.2,
-              duration: 0.8,
-              ease: "easeInOut", // Smooth easing for the transition
-            }}
-            className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80"
-          >
+         
             INTUITIVE DESIGN AND DEVELOPMENT
-          </motion.p>
 
           {/**
            *  Link: https://ui.aceternity.com/components/text-generate-effect
