@@ -24,8 +24,8 @@ const Clients = () => {
                   initial={{ opacity: 0, scale: 0.8 }}
                   whileInView={{ opacity: 1, scale: 1 }}
                   transition={{
-                    delay: 0.4,
-                    duration: 1.5,
+                    delay: 0.1,
+                    duration: 0.5,
                     ease: "easeInOut",
                   }}
                 />

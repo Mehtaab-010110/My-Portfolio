@@ -40,8 +40,8 @@ const RecentProjects = () => {
               initial={{ opacity: 0, y: 50 }} // Start with fade and slide-in from below
               whileInView={{ opacity: 1, y: 0 }} // Fade in and slide up when in view
               transition={{
-                delay: 0.2 + i * 0.1, // Slight delay for each project
-                duration: 0.8,
+                delay: 0.1 + i * 0.1, // Slight delay for each project
+                duration: 0.4,
                 ease: "easeInOut",
               }}
               viewport={{ once: true, amount: 0.2 }} // Trigger when 20% of the item is visible
