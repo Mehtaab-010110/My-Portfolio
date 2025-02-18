@@ -179,16 +179,7 @@ export const workExperience = [
     title: "2023",
     position: "Full Stack Developer - Intern",
     company: "Coreo Inc.",
-    content: "Led the design of a pivotal web application for an upcoming carpooling company, starting with prototypes using Figma. Spearheaded the development of a state-driven user interfaces using NextJS, integrating RESTful APIs to enhance functionality. Developed a secure SQL Server database, ensuring robust data management, while deploying the application on Firebase. Implemented robust security measures - SQL injection prevention, Cross-Site Scripting (XSS) mitigation, and HTTPS encryption, following OWASP guidelines, significantly enhancing data security. Implemented CI/CD pipelines using GitLab to automate testing, building, and deployment processes, reducing deployment times by 50%, and enhancing overall efficiency. Collaborated with the team in a GitLab environment to manage version control, resulting in the successful establishment of partnerships with 11 corporate companies in Calgary",
-    images: [],
-
-  },
-  {
-    id: 2,
-    title: "2022",
-    company: "Self-Employed",
-    position: "Freelance Web Developer",
-    content: "Worked with 13 diverse clients to create tailored, responsive websites, delivering custom solutions for e-commerce, blogs, portfolios, and business websites. Utilized modern front-end technologies including React, NextJS, and Tailwind CSS, optimizing client sites for versatile compatibility. Integrated dynamic features such as interactive forms, custom animations, and advanced UI components to enhance engagement. Applied on-page SEO strategies, including keyword research, content optimization, and technical SEO, to increase organic traffic, resulting in measurable growth for clients. Managed end-to-end project lifecycles, collaborating directly with clients to define requirements, design user interfaces, and provide ongoing maintenance and updates, ensuring long-term website performance and client satisfaction.",
+    content: "Designed the flagship application for a carpooling startup, creating high-fidelity UI/UX designs in Figma and conducted usability testing with 50+ participants. Developed state-driven user interfaces with Next.js, TypeScript, and Tailwind CSS. Integrated Firebase for real-time backend, supporting 500+ concurrent users, enhancing responsiveness. Implemented unit and integration testing using Jest across user flows, ensuring reliability of components. Deployed globally on Vercel, leveraging its built-in CI/CD capabilities to automatically deploy the app, run tests, and handle performance optimizations for a seamless workflow. Collaborated with cross-functional teams on Github, boosting team efficiency that helped secure successful partnerships with 11 corporate clients in Calgary.",
     images: [],
 
   },
