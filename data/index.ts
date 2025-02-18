@@ -71,7 +71,7 @@ export const gridItems = [{
 
 export const projects = [
   {
-    id: 1,
+    id: 2,
     title: "Carpool Proximity App - Coreo",
     des: "Spearheaded the UI/UX design, leveraging Django to contribute to the development of the Carpool Proximity Tool.",
     img: "/emma.png",
@@ -80,11 +80,11 @@ export const projects = [
     alttext: "CoreoCarpoolTool",
   },
   {
-    id: 2,
-    title: "Matisse Web Studios - Portfolio",
-    des: "Crafted and coded a visually stunning website for a local web development agency.",
+    id: 1,
+    title: "Nexstep - Indoor Navigation App",
+    des: "Secured first place at Techstars Startup Weekend, an indoor navigation app that helps users navigate through Calgary's +15 network.",
     img: "/matisse.png",
-    iconLists: ["/html.svg", "/tail.svg", "/firebase.svg", "/js.svg", "/sentry.svg"],
+    iconLists: ["/node.svg", "/three.svg", "/ts.svg", "/next.svg", "/vercel.svg"],
     link: "https://www.matissewebstudios.com/",
     alttext: "MatisseWebStudios",
 
