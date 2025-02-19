@@ -86,7 +86,7 @@ export const projects = [
     img: "/Nexstep.png",
     iconLists: ["/node.svg", "/three.svg", "/ts.svg", "/next.svg", "/vercel.svg"],
     link: "https://github.com/harriputterr/downtown-navigation",
-    alttext: "MatisseWebStudios",
+    alttext: "Nexstep",
 
   },
   {
