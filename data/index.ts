@@ -85,7 +85,7 @@ export const projects = [
     des: "Secured first place at Techstars Startup Weekend, an indoor navigation app that helps users navigate through Calgary's +15 network.",
     img: "/Nextstep.png",
     iconLists: ["/node.svg", "/three.svg", "/ts.svg", "/next.svg", "/vercel.svg"],
-    link: "https://www.matissewebstudios.com/",
+    link: "https://github.com/harriputterr/downtown-navigation",
     alttext: "MatisseWebStudios",
 
   },
