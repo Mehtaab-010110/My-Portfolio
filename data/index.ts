@@ -176,10 +176,10 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "2023",
+    title: "2023-2024",
     position: "Full Stack Developer - Intern",
     company: "Coreo Inc.",
-    content: "Designed the flagship application for a carpooling startup, creating high-fidelity UI/UX designs in Figma and conducted usability testing with 50+ participants. Developed state-driven user interfaces with Next.js, TypeScript, and Tailwind CSS. Integrated Firebase for real-time backend, supporting 500+ concurrent users, enhancing responsiveness. Implemented unit and integration testing using Jest across user flows, ensuring reliability of components. Deployed globally on Vercel, leveraging its built-in CI/CD capabilities to automatically deploy the app, run tests, and handle performance optimizations for a seamless workflow. Collaborated with cross-functional teams on Github, boosting team efficiency that helped secure successful partnerships with 11 corporate clients in Calgary.",
+    content: "Designed the flagship application for a carpooling startup, creating high-fidelity UI/UX designs in Figma and conducted usability testing with 50+ participants. Developed state-driven user interfaces with NextJs, TypeScript, and Tailwind CSS. Integrated Firebase for real-time backend, supporting 500+ concurrent users, enhancing responsiveness. Implemented unit and integration testing using Jest across user flows, ensuring reliability of components. Deployed globally on Vercel, leveraging its built-in CI/CD capabilities to automatically deploy the app, run tests, and handle performance optimizations for a seamless workflow. Collaborated with cross-functional teams on Github, boosting team efficiency that helped secure successful partnerships with 11 corporate clients in Calgary.",
     images: [],
 
   },
