@@ -83,7 +83,7 @@ export const projects = [
     id: 1,
     title: "Nexstep - Indoor Navigation App",
     des: "Secured first place at Techstars Startup Weekend, an indoor navigation app that helps users navigate through Calgary's +15 network.",
-    img: "/matisse.png",
+    img: "/Nextstep.png",
     iconLists: ["/node.svg", "/three.svg", "/ts.svg", "/next.svg", "/vercel.svg"],
     link: "https://www.matissewebstudios.com/",
     alttext: "MatisseWebStudios",
